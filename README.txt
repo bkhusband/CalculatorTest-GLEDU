@@ -1,5 +1,3 @@
-Simple Calculator Task - README
-
 RUNNING THE PROJECT:
 
 This project was developed in Visual Studio 2017 using the ASP.NET framework and C#. It has been tested on several browsers but was primarily developed with Microsoft Edge. 
